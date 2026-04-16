@@ -14,7 +14,7 @@ I am a **Data Engineer** with over 4 years of experience in designing, building,
 - ☁️ Architecting scalable Lakehouse platforms natively on **Azure Databricks** and **ADF**
 - ⚡ Focused on migrating legacy on-premise SQL systems to modern cloud models leveraging **DBT** and **PySpark**
 - 🤝 Always open to discussing **Data Architecture, MLOps, and Data Platform Engineering**
-- 🌐 Check out my interactive 3D Portfolio: **[(https://abhishek-data-engineer-portfolio.vercel.app)]**
+- 🌐 Check out my interactive 3D Portfolio: **[https://abhishek-data-engineer-portfolio.vercel.app]**
 
 ---
 
