@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Data Engineer** with over 4 years of experience in designing, building, and modernizing enterprise-grade data platforms natively on the Azure ecosystem. I specialize in turning massive, complex data streams into structured, real-time analytics frameworks using modern Lakehouse architectures.
+I am a **Data Engineer** with 5+ years of experience in designing, building, and modernizing enterprise-grade data platforms natively on the Azure ecosystem. I specialize in turning massive, complex data streams into structured, real-time analytics frameworks using modern Lakehouse architectures.
 
 - 🏢 Currently working as a **Data Engineer** at **Sigmoid India / Wipro Ltd**
 - ☁️ Architecting scalable Lakehouse platforms natively on **Azure Databricks** and **ADF**
